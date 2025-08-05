@@ -12,8 +12,9 @@ This Project includes End to End Machine Learning Cycle right from Data ingestio
 7. Model Performance Analysis
 8. Pickling the Model
 9. Project Commit and Push in GitHub
-10. Deployment using Flask app
-11. Prediction using Postman
+10. Prediction using Flask API and Postman
+11. Web application using Flask showing the Predicted values for given Parameters
+12. 
 
 
 ### Software and Tools Requirements
