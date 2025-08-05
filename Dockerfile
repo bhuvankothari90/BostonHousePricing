@@ -1,5 +1,5 @@
 # Creating the Base Image of the Environment
-FROM python:3.9-alpine3.18
+FROM alpine3.18
 # Copying all the files from the project folder to the app (docker folder destination)  
 COPY . /app
 # Selecting the destination as the Working DIR folder for docker actions
