@@ -14,8 +14,9 @@ This Project includes End to End Machine Learning Cycle right from Data ingestio
 9. Project Commit and Push in GitHub
 10. Prediction using Flask API and Postman
 11. Web application using Flask showing the Predicted values for given Parameters
-12. Deployment in Cloud using Github in Heroku
-13. 
+12. Deployment in Cloud using Github in Heroku for that we created a "Procfile"
+13. Deployment using Dockers and for that we created a "Dockerfile"
+14. Connecting the Github and Heroku with Dockers Environment to create the CI/CD pipeline for model deployment
 
 
 ### Software and Tools Requirements
