@@ -14,7 +14,8 @@ This Project includes End to End Machine Learning Cycle right from Data ingestio
 9. Project Commit and Push in GitHub
 10. Prediction using Flask API and Postman
 11. Web application using Flask showing the Predicted values for given Parameters
-12. 
+12. Deployment in Cloud using Heroku
+13. 
 
 
 ### Software and Tools Requirements
